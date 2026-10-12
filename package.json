@@ -1,0 +1,11 @@
+{
+  "name": "pyeongso-operations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "평소 계절 소요리 주점 운영관리 웹 시제품",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "test": "node qa-pyeongso.cjs"
+  },
+  "engines": { "node": ">=18" }
+}

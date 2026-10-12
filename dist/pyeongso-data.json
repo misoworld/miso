@@ -1,0 +1,575 @@
+{
+  "meta": {
+    "dataset_id": "pyeongso-operations",
+    "version": "1.0.0",
+    "store_name": "평소",
+    "data_class": "사용자 제공 메뉴 구상 · 운영 기록 미등록",
+    "currency": "KRW",
+    "amount_basis": "기존 프로그램의 부가세 제외 기준 · 실제 운영 기준 확인 필요",
+    "as_of": null,
+    "source": "2026-10-12 사용자 제공 평소 메뉴 리스트",
+    "start_date": null
+  },
+  "settings": {},
+  "menus": [
+    {
+      "menu_id": "PY001",
+      "name": "광어 미소 무침",
+      "category": "시그니처",
+      "status": "시그니처 구상",
+      "description": "광어회에 미소와 제철 장아찌 절임물 소스를 곁들이고 장아찌를 함께 내는 차가운 소요리",
+      "course": "차가운 요리",
+      "ingredient_note": "광어 · 미소 · 제철 장아찌 · 절임물",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "시그니처"
+      ]
+    },
+    {
+      "menu_id": "PY002",
+      "name": "네 가지 계절 소요리 플레이트",
+      "category": "시그니처",
+      "status": "시그니처 구상",
+      "description": "예시 구성: 장아찌 두부, 계절 장아찌 무침, 된장 버섯구이, 고추 장아찌 꼬마김밥. 따뜻한 시루·국물 별도 구성 가능",
+      "course": "계절 플레이트",
+      "ingredient_note": "장아찌 · 두부 · 버섯 · 꼬마김밥",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "시그니처"
+      ]
+    },
+    {
+      "menu_id": "PY003",
+      "name": "닭목살 피망",
+      "category": "시그니처",
+      "status": "시그니처 구상",
+      "description": "생강청과 장아찌 절임물로 양념한 닭목살을 구워 생피망 반쪽과 함께 내는 따뜻한 소요리. 겨자 계열 양념 테스트 예정",
+      "course": "구이",
+      "ingredient_note": "닭목살 · 피망 · 생강청 · 절임물",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "시그니처"
+      ]
+    },
+    {
+      "menu_id": "PY004",
+      "name": "문어 미역 유자",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY005",
+      "name": "오징어 오이냉국",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY006",
+      "name": "두부구이 제철 장아찌",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY007",
+      "name": "미소 버섯구이",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY008",
+      "name": "야채구이",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY009",
+      "name": "쇼가야끼",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY010",
+      "name": "당귀 목살구이",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY011",
+      "name": "감자 토마토 시루",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리",
+        "식사 · 마무리"
+      ]
+    },
+    {
+      "menu_id": "PY012",
+      "name": "감자 샐러드",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY013",
+      "name": "조개 시루",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리",
+        "식사 · 마무리"
+      ]
+    },
+    {
+      "menu_id": "PY014",
+      "name": "달걀 부추",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY015",
+      "name": "오늘의 장아찌 접시",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY016",
+      "name": "계절 절임 세 가지",
+      "category": "소요리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "소요리"
+      ]
+    },
+    {
+      "menu_id": "PY017",
+      "name": "장아찌 두부",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY018",
+      "name": "장아찌 무침",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY019",
+      "name": "구운 버섯 + 당귀장아찌",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY020",
+      "name": "찐 닭 + 미나리장아찌",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY021",
+      "name": "광어 + 풋고추장아찌",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY022",
+      "name": "문어 + 양파장아찌",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY023",
+      "name": "다시마 숙성 광어 + 계절 장아찌",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY024",
+      "name": "광어 + 풋고추절임 + 들기름",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY025",
+      "name": "장아찌 절임물을 활용한 드레싱/소스",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY026",
+      "name": "장아찌 절임물을 활용한 조림·국물 양념",
+      "category": "저장음식 활용",
+      "status": "아이디어",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "저장음식 활용"
+      ]
+    },
+    {
+      "menu_id": "PY027",
+      "name": "명란 오차즈케",
+      "category": "식사 · 마무리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "식사 · 마무리",
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY028",
+      "name": "꼬마김밥 오차즈케",
+      "category": "식사 · 마무리",
+      "status": "후보",
+      "description": "작은 김밥을 한입 크기로 썰어 담고 따뜻한 오차즈케 국물을 붓는 형태",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "식사 · 마무리"
+      ]
+    },
+    {
+      "menu_id": "PY029",
+      "name": "달걀부추밥",
+      "category": "식사 · 마무리",
+      "status": "후보",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "식사 · 마무리"
+      ]
+    },
+    {
+      "menu_id": "PY030",
+      "name": "에다마메",
+      "category": "간단 안주",
+      "status": "메뉴 구상",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY031",
+      "name": "오이 보리된장",
+      "category": "간단 안주",
+      "status": "메뉴 구상",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY032",
+      "name": "토마토 슬라이스",
+      "category": "간단 안주",
+      "status": "메뉴 구상",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY033",
+      "name": "레몬 슬라이스",
+      "category": "간단 안주",
+      "status": "메뉴 구상",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY034",
+      "name": "쯔케모노",
+      "category": "간단 안주",
+      "status": "메뉴 구상",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY035",
+      "name": "계절 장아찌",
+      "category": "간단 안주",
+      "status": "메뉴 구상",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "간단 안주"
+      ]
+    },
+    {
+      "menu_id": "PY036",
+      "name": "생맥주",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY037",
+      "name": "병맥주",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY038",
+      "name": "하이볼",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY039",
+      "name": "토마토 하이볼",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY040",
+      "name": "잔사케",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY041",
+      "name": "도쿠리 사케",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY042",
+      "name": "보리소츄",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY043",
+      "name": "니카이도 계열 보리소츄",
+      "category": "주류",
+      "status": "주류 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "주류"
+      ]
+    },
+    {
+      "menu_id": "PY044",
+      "name": "콜라",
+      "category": "논알코올",
+      "status": "음료 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "논알코올"
+      ]
+    },
+    {
+      "menu_id": "PY045",
+      "name": "사이다",
+      "category": "논알코올",
+      "status": "음료 목록",
+      "description": "",
+      "price": null,
+      "recipe_version": null,
+      "tags": [
+        "논알코올"
+      ]
+    }
+  ],
+  "suppliers": [],
+  "materials": [],
+  "recipes": [],
+  "price_history": [],
+  "calendar": [],
+  "sales": [],
+  "opening_inventory": [],
+  "inventory_events": [],
+  "expenses": [],
+  "monthly_expense_plan": []
+}
