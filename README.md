@@ -18,6 +18,10 @@ npm start
 npm test
 ```
 
+## Vercel 배포
+
+저장소 루트를 프로젝트의 Root Directory로 사용합니다. `vercel.json`에서 정적 사이트(Other), 배포 폴더 `dist`, 검사 명령 `npm run build`를 지정합니다. 페이지 주소는 `/dist/index.html`이 아니라 `/`입니다. 새 커밋이 연결된 `main` 브랜치에 올라가면 Vercel 자동 배포를 확인합니다.
+
 ## 화면과 기능
 
 - 대시보드: 음식·주류·논알코올 실적, 시그니처 3종, 계절 메뉴·저장 식재료 활용 방향

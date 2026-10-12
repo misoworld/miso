@@ -4,6 +4,7 @@
   "private": true,
   "description": "평소 계절 소요리 주점 운영관리 웹 시제품",
   "scripts": {
+    "build": "node scripts/verify-static.mjs",
     "start": "node scripts/serve.mjs",
     "test": "node qa-pyeongso.cjs"
   },
